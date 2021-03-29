@@ -11,7 +11,6 @@ public class App
     private String address;
     public static void main( String[] args )
     {
-
         System.out.println( "Hello World!" );
     }
 }
