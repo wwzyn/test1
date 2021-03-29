@@ -7,6 +7,7 @@ package org.example;
 public class App 
 {
     private String name;
+    private int age;
     public static void main( String[] args )
     {
 
